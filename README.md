@@ -1,5 +1,5 @@
 # Whatsapp Task Manager
-> By Akshay Gudhate
+> By Akshay Gudhate (Shrimant Peshawa)
 
 > New age task management app using whatsapp. Created with ----> React, Node, Postgres, Golang, RabbitMQ.
 
