@@ -25,3 +25,5 @@ This project has 4 major modules *server*, *web*, *cron* connected via *Go Bridg
 * Todo ---> todo_id, subject, todo_text, priority(high, medium, low), is_completed, timestamp_scheduled, timestamp_created
 * View of task and user db combined.
 - -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Happy Coding!
